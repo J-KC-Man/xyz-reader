@@ -29,6 +29,7 @@
                 android:layout_height="match_parent"
                 app:layout_collapseMode="parallax"
                 android:scaleType="centerCrop"
+                android:contentDescription="@string/book_image"
                 />
 
             <android.support.v7.widget.Toolbar
